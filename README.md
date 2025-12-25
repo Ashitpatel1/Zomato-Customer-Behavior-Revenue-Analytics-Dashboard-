@@ -79,7 +79,8 @@ City-level expansion strategies
 Restaurant partner optimization
 
 ###7 screenshort1- ![Alt Text](https://github.com/Ashitpatel1/Zomato-Customer-Behavior-Revenue-Analytics-Dashboard-/blob/main/Executive%20Overview.png)
-screenshot2 -![Alt Text](https://github.com/Ashitpatel1/Zomato-Customer-Behavior-Revenue-AnalyticDashboard-/blob/main/Customer%20Segmentation%20%26%20Ordering%20Patterns.png)
+screenshot2 -![Alt Text](https://github.com/Ashitpatel1/Zomato-Customer-Behavior-Revenue-Analytics-Dashboard-/blob/main/Customer%20Segmentation%20%26%20Ordering%20Patterns.png)
+
 
 
 
